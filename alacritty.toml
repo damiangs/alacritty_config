@@ -28,6 +28,9 @@ import = [
     "~/.config/alacritty/themes/themes/kanagawa_wave.toml"
 ]
 
+[terminal.shell]
+program = "C:\\Windows\\System32\\wsl.exe"
+args = ["--cd", "~"]
 
 
 
