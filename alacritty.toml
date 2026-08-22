@@ -12,16 +12,15 @@ size = 12
 # git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
 
 [font.normal]
-family = "FiraCode Nerd Font"
-style = "Regular"
+family = "JetBrainsMono Nerd Font"
 
 [window]
 opacity = 0.9
 dynamic_padding = true
 
 [window.padding]
-x = 0
-y = 0
+x = 10
+y = 10
 
 [general]
 import = [
